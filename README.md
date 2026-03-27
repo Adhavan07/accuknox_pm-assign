@@ -28,7 +28,7 @@ every time it recurs.
 
 ## Figma Wireframes
 
-[View wireframes →](<https://www.figma.com/design/NOmUwYAoB0DdtVIwybL04y/Accuknox_Assignment?node-id=0-1&t=5N9haqMBbatNLOQE-1>)
+[View wireframes →](<https://www.figma.com/proto/NOmUwYAoB0DdtVIwybL04y/Accuknox_Assignment?node-id=1-7&p=f&t=z65bGbLX8e564wZ0-1&scaling=scale-down&content-scaling=responsive&page-id=0%3A1>)
 
 ---
 
